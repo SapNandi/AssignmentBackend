@@ -1,0 +1,9 @@
+Description: Basic CRUD Backend with MongoDB as a DataBase for the Book Keeping
+
+End Points:
+1) Create Book : http://localhost:4000/api/v1/books/new [POST]
+2) Get Book : http://localhost:4000/api/v1/books [GET]
+3) Update Book : http://localhost:4000/api/v1/books/:id [PUT]
+4) Delete Book : http://localhost:4000/api/v1/books/:id [DELETE]
+
+Followed Model View Controller Approach with comments and clean code and Error Handling.
